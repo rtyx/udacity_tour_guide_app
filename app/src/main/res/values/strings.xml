@@ -1,0 +1,28 @@
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Andalucia</string>
+
+    <!-- Category name for Granada [CHAR LIMIT=20] -->
+    <string name="category_granada">Granada</string>
+
+    <!-- Category name for Sevilla [CHAR LIMIT=20] -->
+    <string name="category_sevilla">Sevilla</string>
+
+    <!-- Category name for Jaén [CHAR LIMIT=20] -->
+    <string name="category_jaen">Jaén</string>
+
+    <!-- Category name for Málaga [CHAR LIMIT=20] -->
+    <string name="category_malaga">Málaga</string>
+
+    <!-- Category name for Córdoba [CHAR LIMIT=20] -->
+    <string name="category_cordoba">Córdoba</string>
+
+    <!-- Category name for Almería [CHAR LIMIT=20] -->
+    <string name="category_almeria">Almería</string>
+
+    <!-- Category name for Huelva [CHAR LIMIT=20] -->
+    <string name="category_huelva">Huelva</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/tan_background"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/granada"
+        style="@style/CategoryStyle"
+        android:background="@color/category_granada"
+        android:text="@string/category_granada" />
+
+    <TextView
+        android:id="@+id/jaen"
+        style="@style/CategoryStyle"
+        android:background="@color/category_jaen"
+        android:text="@string/category_jaen" />
+
+    <TextView
+        android:id="@+id/sevilla"
+        style="@style/CategoryStyle"
+        android:background="@color/category_sevilla"
+        android:text="@string/category_sevilla" />
+
+    <TextView
+        android:id="@+id/malaga"
+        style="@style/CategoryStyle"
+        android:background="@color/category_malaga"
+        android:text="@string/category_malaga" />
+
+    <TextView
+        android:id="@+id/cordoba"
+        style="@style/CategoryStyle"
+        android:background="@color/category_cordoba"
+        android:text="@string/category_cordoba" />
+
+    <TextView
+        android:id="@+id/huelva"
+        style="@style/CategoryStyle"
+        android:background="@color/category_huelva"
+        android:text="@string/category_huelva" />
+
+</LinearLayout>
